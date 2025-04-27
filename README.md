@@ -67,7 +67,7 @@ print("Confusion Matrix:\n",conf_matrix)
 print("Classification Report:\n",classification_rep)
 ~~~
 
-<H3>Output:</H3>
+### Output:
 ![image](https://github.com/user-attachments/assets/d9d7a008-f9d9-42b3-9d4a-e3edd133b781)
 ![image](https://github.com/user-attachments/assets/2924c2b6-f8e7-40a6-9647-65f85f744eb9)
 
